@@ -1,6 +1,6 @@
 # 📝 Vite + React Task Manager
 
-A sleek, lightweight, and responsive Task Manager (Todo App) built using React and modern CSS custom properties. This application supports task creation, completion toggles via checkboxes, deletion, and a real-time Light/Dark theme mode switch.
+A sleek, lightweight, and responsive Task Manager built using React and modern CSS custom properties. This application supports task creation, completion toggles via checkboxes, deletion, and a real-time Light/Dark theme mode switch.
 
 Updating new feature soon...
 
